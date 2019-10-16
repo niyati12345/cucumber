@@ -10,8 +10,8 @@ public class BrowserSelector extends Utlis {
     LoadProps loadProps=new LoadProps();
 
     public void SetUpBrowser(){
-        String browser=loadProps.getProperty("Browser");
-      //  //String browser=System.getProperty("Browser");
+       // String browser=loadProps.getProperty("Browser");
+       String browser=System.getProperty("Browser");
         if(browser.equalsIgnoreCase("firefox")){
             System.setProperty("webdriver.gecko.driver","src\\test\\Resources\\BrowserSelector\\geckodriver.exe");
             driver=new FirefoxDriver();
