@@ -2,62 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc86c95e-80fd-4a0a-93d8-766748eb13d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CusumberNopCommerce.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/AppleMacBookProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/BrowserSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/BuildYourOwnComputerPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/CheckOutAsGuest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/CheckOutCompleted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/EmailAFreindPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/LoadProps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/RegistrationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/ShoppingCartPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CucumberProject/Utlis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserSelector/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserSelector/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/BrowserSelector/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/EmailAfriend.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/ProductPurchase.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/Features/register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Resources/TestData/TestDataconfig.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberProject/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberProject/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberProject/MyStepDefs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/AppleMacBookProductPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/BasePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/BrowserSelector.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/BuildYourOwnComputerPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/CheckOutAsGuest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/CheckOutCompleted.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/CheckoutPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/EmailAFreindPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/LoadProps.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/RegistrationPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/ShoppingCartPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/CucumberProject/Utlis.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserSelector/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserSelector/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/BrowserSelector/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CucumberProject/BaseTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CucumberProject/Hooks.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CucumberProject/MyStepDefs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/CucumberProject/RunTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/EmailAfriend.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/ProductPurchase.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Features/register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestData/TestDataconfig.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberProject/Hooks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberProject/Hooks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -72,11 +19,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CucumberProject/CheckOutCompleted.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="260">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,8 +55,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CucumberProject/BrowserSelector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+            <state relative-caret-position="260">
+              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,8 +90,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/CucumberProject/Hooks.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            <state relative-caret-position="400">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#255#256#0" expanded="true" />
@@ -160,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/Resources/Features/EmailAfriend.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="280">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -207,7 +157,6 @@
         <option value="$PROJECT_DIR$/src/main/java/CucumberProject/LoadProps.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/Resources/Features/EmailAfriend.feature" />
-        <option value="$PROJECT_DIR$/src/test/java/CucumberProject/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/Resources/Features/register.feature" />
         <option value="$PROJECT_DIR$/src/main/java/CucumberProject/HomePage.java" />
         <option value="$PROJECT_DIR$/src/main/java/CucumberProject/RegistrationPage.java" />
@@ -215,9 +164,10 @@
         <option value="$PROJECT_DIR$/src/test/java/CucumberProject/MyStepDefs.java" />
         <option value="$PROJECT_DIR$/src/main/java/CucumberProject/ShoppingCartPage.java" />
         <option value="$PROJECT_DIR$/src/test/Resources/TestData/TestDataconfig.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/CucumberProject/CheckoutPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/CucumberProject/BrowserSelector.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CucumberProject/Hooks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java" />
       </list>
     </option>
   </component>
@@ -350,7 +300,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowserSelector" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -403,6 +353,21 @@
       <option name="presentableId" value="Default" />
       <updated>1570901637331</updated>
     </task>
+    <task id="LOCAL-00001" summary="hi">
+      <created>1571242333725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571242333725</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hi">
+      <created>1571243538006</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571243538006</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -439,9 +404,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1453" height="873" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49856323" visible="true" weight="0.27096775" />
-      <window_info id="Structure" order="1" sideWeight="0.50143677" side_tool="true" visible="true" weight="0.27096775" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.78304595" visible="true" weight="0.27096775" />
+      <window_info id="Structure" order="1" sideWeight="0.21695402" side_tool="true" visible="true" weight="0.27096775" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -454,7 +420,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.06325707" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.06325707" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32974428" />
       <window_info anchor="bottom" id="Messages" order="10" />
@@ -495,6 +461,10 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hi" />
+    <option name="LAST_COMMIT_MESSAGE" value="hi" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/MyStepdefs.java" />
@@ -578,16 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CucumberProject/CheckOutCompleted.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -621,10 +581,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Features/register.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="1" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Features/ProductPurchase.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/Features/EmailAfriend.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/CucumberProject/BrowserSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CucumberProject/Hooks.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+        <state relative-caret-position="400">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#255#256#0" expanded="true" />
@@ -643,34 +634,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/CucumberProject/BrowserSelector.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/CucumberProject/RunTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="260">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Resources/Features/register.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" selection-start-line="1" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Resources/Features/ProductPurchase.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/Resources/Features/EmailAfriend.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>

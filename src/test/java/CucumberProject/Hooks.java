@@ -18,7 +18,7 @@ public class Hooks extends BasePage{
     {
         //screenshot
         //takeScreenshot();
-        //quit
+        driver.quit();
         //driver.quit();
     }
 }
